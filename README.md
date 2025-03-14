@@ -13,7 +13,7 @@ This repository contains curated articles, papers, and resources that I find val
 
 ### Distributed Systems
 - 📝 [Active-Active for Multi-Regional Resiliency](https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b) - Leveraging the principles of Isolation and Redundancy
-- 📖 [Active-Active for Multi-Regional Resiliency](distributed-systems/example-paper.pdf) - Brief description.
+- 📝 [Shuffle Sharding: Massive and Magical Fault Isolation](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/) - A nice read about one way to apply the principle of Fault Isolation
 - 📖 [Understanding Distributed Systems, Second Edition](https://understandingdistributed.systems/) - Brings together the core theoretical and practical concepts of distributed systems, easy to read by anyone as it doesn't go deep into each concept  
 - 📺 [Paxos & Raft Explained](https://www.youtube.com/watch?v=abc456) - Consensus protocols overview  
 
