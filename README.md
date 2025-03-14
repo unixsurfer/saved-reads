@@ -14,6 +14,7 @@ This repository contains curated articles, papers, and resources that I find val
 ### Distributed Systems
 - 📝 [Active-Active for Multi-Regional Resiliency](https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b) - Leveraging the principles of Isolation and Redundancy
 - 📝 [Shuffle Sharding: Massive and Magical Fault Isolation](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/) - A nice read about one way to apply the principle of Fault Isolation
+- 📝 [A Case Study in Global Fault Isolation](https://aws.amazon.com/blogs/architecture/a-case-study-in-global-fault-isolation/) - Applying the Fault Isolation principle
 - 📖 [Understanding Distributed Systems, Second Edition](https://understandingdistributed.systems/) - Brings together the core theoretical and practical concepts of distributed systems, easy to read by anyone as it doesn't go deep into each concept
 - 📖 [Metastable Failures in Distributed Systems](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/hotos21-s11-bronson-metastable-failures.pdf) - A failure mode I’ve experienced, now formally named and analyzed
 - 📺 [Paxos & Raft Explained](https://www.youtube.com/watch?v=abc456) - Consensus protocols overview  
