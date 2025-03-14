@@ -13,8 +13,8 @@ This repository contains curated articles, papers, and resources that I find val
 
 ### Distributed Systems
 - 📝 [Active-Active for Multi-Regional Resiliency](https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b) - Leveraging the principles of Isolation and Redundancy
-- 📖 [Paper Title](distributed-systems/example-paper.pdf) - Brief description.
-- 📺 [Introduction to Distributed Systems](https://www.youtube.com/watch?v=xyz123) - Fundamentals of distributed systems  
+- 📖 [Active-Active for Multi-Regional Resiliency](distributed-systems/example-paper.pdf) - Brief description.
+- 📖 [Understanding Distributed Systems, Second Edition](https://understandingdistributed.systems/) - Brings together the core theoretical and practical concepts of distributed systems, easy to read by anyone as it doesn't go deep into each concept  
 - 📺 [Paxos & Raft Explained](https://www.youtube.com/watch?v=abc456) - Consensus protocols overview  
 
 ## 🛠 Software Development
