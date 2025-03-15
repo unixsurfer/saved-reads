@@ -24,6 +24,7 @@ This repository contains curated articles, papers, and resources that I find val
 ## 🛠 Software Development
 
 ### General Concepts
+- 📝 [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency) - An easy read for newcomers to the world of idempotency
 - 📖 [Article Title](software-development/general-concepts/article-title.pdf) - Short description
 
 ### Tooling
