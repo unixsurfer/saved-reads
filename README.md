@@ -19,6 +19,7 @@ This repository contains curated articles, papers, and resources that I find val
 - 📖 [Metastable Failures in Distributed Systems](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/hotos21-s11-bronson-metastable-failures.pdf) - A failure mode I’ve experienced, now formally named and analyzed
 - 📝 [Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html) - A practical definition for Availability
 - 📝 [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459) - Goes a bit deeper than the previous article and with more practical information
+- 📖 [A Critique of the CAP Theorem](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/cap-critique.pdf) - Insightful read about the famousCAP Theorem
 - 📺 [Paxos & Raft Explained](https://www.youtube.com/watch?v=abc456) - Consensus protocols overview  
 
 ## 🛠 Software Development
