@@ -41,6 +41,7 @@ This repository contains curated articles, papers, and resources that I find val
 - 📖 [Article Title](soft-skills/writing/article-title.pdf) - Short description
 
 ### Communication
+- 📖 [The Culture Map](https://erinmeyer.com/books/the-culture-map/) - A must-read book for working in a multicultural environment
 - 📖 [Effective Communication](soft-skills/communication/effective-communication.pdf) - Tips and strategies
 
 - 🎓 [Training Resource](soft-skills/training/training-resource.pdf) - Useful training material for skill development
