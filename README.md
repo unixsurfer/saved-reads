@@ -17,6 +17,8 @@ This repository contains curated articles, papers, and resources that I find val
 - 📝 [A Case Study in Global Fault Isolation](https://aws.amazon.com/blogs/architecture/a-case-study-in-global-fault-isolation/) - Applying the Fault Isolation principle
 - 📖 [Understanding Distributed Systems, Second Edition](https://understandingdistributed.systems/) - Brings together the core theoretical and practical concepts of distributed systems, easy to read by anyone as it doesn't go deep into each concept
 - 📖 [Metastable Failures in Distributed Systems](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/hotos21-s11-bronson-metastable-failures.pdf) - A failure mode I’ve experienced, now formally named and analyzed
+- 📝 [Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html) - A practical definition for Availability
+- 📝 [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459) - Goes a bit deeper than the previous article and with more practical information
 - 📺 [Paxos & Raft Explained](https://www.youtube.com/watch?v=abc456) - Consensus protocols overview  
 
 ## 🛠 Software Development
