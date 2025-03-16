@@ -20,7 +20,8 @@ This repository contains curated articles, papers, and resources that I find val
 - 📝 [Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html) - A practical definition for Availability
 - 📝 [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459) - Goes a bit deeper than the previous article and with more practical information
 - 📖 [A Critique of the CAP Theorem](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/cap-critique.pdf) - Insightful read about the famous CAP Theorem
-- 📺 [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) - A good start point to trigger more deep understanding of each pattern  
+- 📺 [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) - A good start point to trigger more deep understanding of each pattern
+- 📝 [Consistency Models](https://jepsen.io/consistency/models) - The clickable map is useful. It doesn't go deep, but some prior knowledge is required
 
 ## 🛠 Software Development
 
