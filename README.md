@@ -29,6 +29,8 @@ This repository contains curated articles, papers, and resources that I find val
 ### General Concepts
 - 📝 [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency) - An easy read for newcomers to the world of idempotency
 - 📝 [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) - A must-read for those who embrace failure as a natural occurrence
+- 📝 [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/) - Fundamental yet often overlooked concepts that frequently cause outagess
+- 📝 [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter) - Expands on the previous article with detailed graphs and example code, making the concepts more practical
 - 📖 [Article Title](software-development/general-concepts/article-title.pdf) - Short description
 
 ### Tooling
