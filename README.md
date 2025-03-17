@@ -22,6 +22,7 @@ This repository contains curated articles, papers, and resources that I find val
 - 📖 [A Critique of the CAP Theorem](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/cap-critique.pdf) - Insightful read about the famous CAP Theorem
 - 📺 [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE) - A good start point to trigger more deep understanding of each pattern
 - 📝 [Consistency Models](https://jepsen.io/consistency/models) - The clickable map is useful. It doesn't go deep, but some prior knowledge is required
+- 📖 [Consistency, Availability, and Convergence](https://raw.githubusercontent.com/unixsurfer/saved-reads/main/distributed-systems/cac-tr.pdf) - Goes deep and requires prior knowledge to fully understand it
 
 ## 🛠 Software Development
 
