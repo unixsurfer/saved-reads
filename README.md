@@ -32,8 +32,8 @@ This repository contains curated articles, papers, and resources that I find val
 - 📝 [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/) - A must-read for those who embrace failure as a natural occurrence
 - 📝 [Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/) - Fundamental yet often overlooked concepts that frequently cause outagess
 - 📝 [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter) - Expands on the previous article with detailed graphs and example code, making the concepts more practical
-- 📖 [Article Title](software-development/general-concepts/article-title.pdf) - Short description
-
+- 📝 [Back of the envelope estimation hacks](https://robertovitillo.com/back-of-the-envelope-estimation-hacks/) - A handy refresher on quick, practical calculations for capacity planning
+- 
 ### Tooling
 - 📖 [Article Title](software-development/tooling/article-title.pdf) - Short description
 
