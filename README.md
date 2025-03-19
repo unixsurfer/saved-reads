@@ -34,6 +34,7 @@ This repository contains curated articles, papers, and resources that I find val
 - 📝 [Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter) - Expands on the previous article with detailed graphs and example code, making the concepts more practical
 - 📝 [Back of the envelope estimation hacks](https://robertovitillo.com/back-of-the-envelope-estimation-hacks/) - A handy refresher on quick, practical calculations for capacity planning
 - 📝 [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/) - An easy read that makes you think twice before implementing Fallbacks
+- 📝 [Using load shedding to avoid overload](https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/) - Load Shedding is all about rejecting excess requests so that a server can focus on the requests it decides to let in
   
 ### Tooling
 - 📖 [Article Title](software-development/tooling/article-title.pdf) - Short description
